@@ -1,0 +1,11 @@
+#wintertime {
+	border: 4px dotted #FFCC22;
+	border-bottom-color: #BB8800;
+	border-right-color: #BB8800;
+	width: 400px;
+	height: 300px;
+	text-align: center;
+	margin: auto;
+	padding-top: 100px;
+	background-color: #00CCFF;
+}
